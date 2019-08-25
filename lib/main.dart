@@ -82,8 +82,8 @@ class _MyHomePageState extends State<MyHomePage> {
     final snackBar_onClosed = SnackBar(content: Text('Transaction closed'));
     final _rave = RaveCardPayment(
       isDemo: true,
-      encKey: "1b40200e3137f43b3e50c0ba",
-      publicKey: "FLWPUBK-67f9dc5a446d63ff6ad9b5706531103a-X",
+      encKey: "c53e399709de57d42e2e36ca",
+      publicKey: "FLWPUBK-d97d92534644f21f8c50802f0ff44e02-X",
       transactionRef: "hvHPvKYaRuJLlJWSPWGGKUyaAfWeZKnm",
       amount: 100,
       email: "demo1@example.com",
