@@ -3,7 +3,7 @@ This is a simple project that will help you learn how to build a simple payment 
 
 You can read an article about this project, which is on medium: https://medium.com/flutter-community/build-a-simple-payment-platform-in-10-minutes-using-flutter-and-flutterwave-97e8c8ad02ff
 
-<img src="https://miro.medium.com/max/2774/1*ibuZ9_KxadJELUVZv96Wvw.jpeg"  title="Google_Search">
+<img src="https://miro.medium.com/max/2774/1*ibuZ9_KxadJELUVZv96Wvw.jpeg"  title="payment_app">
 
 Contact - Let's become friends
 
